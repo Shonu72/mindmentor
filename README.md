@@ -5,7 +5,7 @@
 <p align="left"> 
   <img src="https://github.com/Shonu72/mindmentor/assets/67668844/d19f1463-19bc-4f0b-a099-60fbca8d63bd"   width="200" height="400" />
   &nbsp
-  <p>splash screen </p>
+splash screen
   <img src="https://github.com/Shonu72/mindmentor/assets/67668844/39277ea0-702d-47f6-a252-54a9f60b69ce"   width="200" height="400" />
   &nbsp
   <p>Main Screen </p>
